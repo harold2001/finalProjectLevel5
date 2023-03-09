@@ -1,0 +1,12 @@
+.buttonAbility {
+   padding: .6rem 1.2rem;
+   border: 1px solid gray;
+   border-radius: .5rem;
+   font-weight: 700;
+}
+
+.buttonAbility.active {
+   background-color: #4eb4a7;
+   border: 1px solid #4eb4a7;
+   color: white;
+}
